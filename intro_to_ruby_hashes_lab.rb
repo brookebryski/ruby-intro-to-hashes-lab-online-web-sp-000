@@ -14,7 +14,7 @@ def monopoly
   {
     :pieces=>4,
 	
-		
+
 	}
 
 end
